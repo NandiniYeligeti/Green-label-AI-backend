@@ -1,0 +1,14 @@
+# Go
+/bin/
+/tmp/
+*.exe
+*.log
+
+# Environment
+.env
+
+# Database
+data/*.db
+
+# OS
+.DS_Store
